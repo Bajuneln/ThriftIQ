@@ -1,0 +1,147 @@
+[
+    {
+        "date": "2026-05-14 13:54:29",
+        "counts": {
+            "cropped": 2,
+            "cashmere": 3,
+            "linen": 2,
+            "wool": 6,
+            "oversized": 2,
+            "draped": 1,
+            "boho": 4,
+            "silk": 1,
+            "wide": 8,
+            "relaxed": 1
+        }
+    },
+    {
+        "date": "2026-05-14 14:14:01",
+        "counts": {
+            "cotton": 13,
+            "cashmere": 7,
+            "linen": 21,
+            "cropped": 4,
+            "wool": 26,
+            "draped": 1,
+            "oversized": 2,
+            "textured": 1,
+            "leather": 2,
+            "boho": 4,
+            "silk": 1,
+            "wide": 9,
+            "relaxed": 1,
+            "coastal": 1,
+            "lagenlook": 1,
+            "mohair": 1,
+            "alpaca": 1
+        }
+    },
+    {
+        "date": "2026-05-14 15:38:43",
+        "counts": {
+            "cotton": 11,
+            "cashmere": 8,
+            "cropped": 4,
+            "chunky": 2,
+            "draped": 1,
+            "oversized": 2,
+            "leather": 2,
+            "textured": 1,
+            "linen": 22,
+            "boho": 3,
+            "silk": 1,
+            "wool": 21,
+            "wide": 9,
+            "relaxed": 1,
+            "mohair": 1,
+            "alpaca": 1
+        }
+    },
+    {
+        "date": "2026-05-14 18:51:54",
+        "counts": {
+            "cashmere": 7,
+            "cotton": 7,
+            "cropped": 5,
+            "chunky": 2,
+            "draped": 1,
+            "boho": 4,
+            "leather": 1,
+            "textured": 2,
+            "linen": 23,
+            "silk": 1,
+            "wool": 23,
+            "wide": 6,
+            "relaxed": 1,
+            "lagenlook": 1,
+            "mohair": 1,
+            "oversized": 1,
+            "alpaca": 1
+        }
+    },
+    {
+        "date": "2026-05-14 21:22:07",
+        "counts": {
+            "cropped": 5,
+            "cashmere": 8,
+            "cotton": 6,
+            "wool": 24,
+            "layering": 2,
+            "draped": 1,
+            "textured": 1,
+            "leather": 1,
+            "linen": 23,
+            "boho": 3,
+            "silk": 1,
+            "wide": 9,
+            "relaxed": 2,
+            "lagenlook": 3,
+            "alpaca": 1,
+            "mohair": 1
+        }
+    },
+    {
+        "date": "2026-05-14 21:43:51",
+        "counts": {
+            "minimalist": 1,
+            "cashmere": 8,
+            "cotton": 5,
+            "cropped": 6,
+            "wool": 23,
+            "draped": 1,
+            "leather": 2,
+            "textured": 1,
+            "linen": 22,
+            "boho": 3,
+            "silk": 1,
+            "wide": 8,
+            "relaxed": 2,
+            "lagenlook": 3,
+            "layering": 1,
+            "alpaca": 1,
+            "mohair": 1
+        }
+    },
+    {
+        "date": "2026-05-14 21:45:59",
+        "counts": {
+            "minimalist": 2,
+            "cashmere": 8,
+            "cotton": 5,
+            "cropped": 6,
+            "wool": 23,
+            "draped": 1,
+            "leather": 2,
+            "textured": 1,
+            "linen": 22,
+            "boho": 3,
+            "silk": 1,
+            "wide": 8,
+            "relaxed": 2,
+            "lagenlook": 3,
+            "layering": 1,
+            "alpaca": 1,
+            "mohair": 1
+        }
+    }
+]
