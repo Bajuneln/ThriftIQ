@@ -422,11 +422,7 @@ Focus heavily on:
         material,
         color
     )
-    market_analysis = (
-        analyze_90_day_market(
-            comps
-        )
-    )
+
     # =====================================
     # HIGH QUALITY COMPS ONLY
     # =====================================
